@@ -1,2 +1,2 @@
 # Stone-Paper-Scissors-Game
-Another basic JS based game to practice DOM, and learn more about bootstrap
+A basic JS based game to practice DOM plus creativity and learn more about bootstrap
